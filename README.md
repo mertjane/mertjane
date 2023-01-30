@@ -9,6 +9,5 @@
     * Strong knowledge of JavaScript, jQuery, and modern JavaScript libraries such as React for building dynamic and interactive user interfaces.
     * Familiarity with Express.js, MongoDB, Mongoose, and Node.js for building and maintaining the backend of web applications, 
       including handling API requests and database management.
-    * Strong understanding of web development principles and the ability to work independently as a self-learned developer.
     * Experience with Figma for creating and collaborating on wireframes, mockups, and visual designs.
     * Strong understanding of web development principles and the ability to work independently as a self-learned developer.
