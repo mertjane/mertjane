@@ -2,7 +2,7 @@
 
 - 🧔 My name is Mertcan
 - 🔭 I’m currently working on Whatsapp web Clone with React&NodeJs.
-- 🌱 I’m currently learning Vue.js, Laravel and Svelte.
+- 🌱 I’m currently learning TypeScript and React testing such as Jest, Enzyme. 
 - 📚 Tools i know: 
     * Proficient in HTML, CSS, and SASS for creating responsive and visually appealing web pages.
     * Experience with CSS frameworks such as Bootstrap and Tailwind forquick and efficient styling.
