@@ -29,9 +29,9 @@ Brief description of what this project does and the technologies used.
 
 ## 📫 Let's Connect
 
-[- Portfolio: [mk1512.brighton.domains](https://mk1512.brighton.domains)](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)
-[- LinkedIn: [mk1512.brighton.domains] https://linkedin.com/in/mertcan-kara/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[- Email: mck0391uk@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- Portfolio: [mk1512.brighton.domains](https://mk1512.brighton.domains)](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)
+- LinkedIn: [mk1512.brighton.domains] https://linkedin.com/in/mertcan-kara/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- Email: mck0391uk@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
