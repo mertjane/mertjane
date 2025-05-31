@@ -30,7 +30,7 @@ Brief description of what this project does and the technologies used.
 ## 📫 Let's Connect
 
 - Portfolio: [mk1512.brighton.domains](https://mk1512.brighton.domains)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mertcan-kara/)
+- LinkedIn: https://linkedin.com/in/mertcan-kara/
 - Email: mck0391uk@gmail.com
 
 ---
