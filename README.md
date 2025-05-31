@@ -28,8 +28,7 @@ I'm a full-stack developer passionate about building scalable web applications a
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mertjane&show_icons=true&theme=default&hide_border=true)
+![Mertcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertjane&show_icons=true&theme=dracula)
 
 ## 🚀 Featured Projects
 
